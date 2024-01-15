@@ -1,2 +1,9 @@
-# Dio-Desafio-JogoDeCartas-YuGiOh
-repositório criado para desafio de jogo de cards baseado no game Yu-Gi-Oh!. Feito para o bootcamp dio e potencia tec.
+# Yu-Gi-Oh | Jo-ken-po Edition
+
+Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+
+conceitos abordados:
+
+- Armazenamento e gerenciamento de estado manual
+- Funções limpas
+- Organização de código
